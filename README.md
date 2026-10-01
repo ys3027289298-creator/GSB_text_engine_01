@@ -1,2 +1,3 @@
-# GSB_text_engine_01
-Clone of akvsx/TextEngine
+# TextEngine
+A one hour build
+simple engine for text based adventure games
